@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "The Epistolary Transfer Graph: A Typed Directed Multigraph for Modeling Precedence and Attribution Among Claims, with an Exploratory Spectral Mapping"
+abstract: >-
+  A typed, weighted, directed multigraph for precedence, influence, citation
+  and related transfer relations among letters, claims, motifs and packets,
+  with an exploratory mapping from paths and cycles to formant triples.
+  Conceptual proposal with a Python reference implementation; the spectral
+  mapping has not been empirically validated.
+authors:
+  - family-names: Seals
+    given-names: Lewis
+    name-suffix: Jr.
+    # affiliation: add institution, or omit for independent researcher
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+version: 0.2.0
+date-released: 2026-11-23
+license: MIT
+repository-code: "https://github.com/ljrseals-dev/basic-maths"
+keywords:
+  - directed multigraph
+  - attribution
+  - provenance
+  - scholarly precedence
+  - sonification
+  - formal methods
